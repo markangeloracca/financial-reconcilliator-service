@@ -1,0 +1,20 @@
+{
+  "type": "struct",
+  "fields": [
+    {
+      "name": "name",
+      "nullable": false,
+      "type": "string"
+    },
+    {
+      "name": "count",
+      "nullable": false,
+      "type": "integer"
+    },
+    {
+      "name": "amount",
+      "nullable": false,
+      "type": "decimal"
+    }
+  ]
+}
