@@ -37,7 +37,7 @@ public class StructTypeBuilderImplV2 implements StructTypeBuilder {
 
         StructType schema = gson.fromJson(content, StructType.class);
         log.info(schema.toString());
-        return null;
+        return schema;
     }
 
     public static String readFileToString(String filePath) throws IOException {

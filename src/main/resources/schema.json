@@ -9,12 +9,12 @@
     {
       "name": "count",
       "nullable": false,
-      "type": "integer"
+      "type": "string"
     },
     {
       "name": "amount",
       "nullable": false,
-      "type": "decimal"
+      "type": "string"
     }
   ]
 }

@@ -1,2 +1,5 @@
-Some parameter	Other parameter	Last parameter
-CONST	123457	12.45
+name	count	amount
+CONST	123456	12.48
+SUPER	222222	14.44
+MEGA	222221	14.12
+MEGALO	222223	14.12
